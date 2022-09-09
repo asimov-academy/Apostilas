@@ -1,0 +1,1 @@
+*insira aqui o id do servidor em que seu bot irá operar*
