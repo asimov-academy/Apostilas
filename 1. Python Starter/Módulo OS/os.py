@@ -1,6 +1,5 @@
 import os
 
-
 # Mostra o caminho completo do diretório atual
 os.getcwd()
 
