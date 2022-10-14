@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <body>
+        <div style="background-color:#eee;padding:10px 20px;">
+            <h2 style="font-family:Georgia, 'Times New Roman', Times, serif;color:#454349; text-align: center;">Exemplo de email com formatação HTML</h2>
+        </div>
+        <div> 
+            <h4 style="font-family: Arial, Helvetica, sans-serif; color: #000000;">Prezados, bom dia!</h4>
+            <p>Gostaria de solicitar um orçamento dos produtos de rede, conforme contrato estabelecido.
+            <p>Fico no aguardo do retorno.</p>
+            <p>Att,</p>
+            <h5>Dpto. Comercial</h5>
+            <h5>fone: (xx) xxxx-xxxx</h5>
+            <h5>email: xxxxxxxxxx@xxxx.com.br</h5>
+        </div>
+        <div style="padding:40px 0px">
+            <div style="height: 500px;width:400px">
+                <img src="https://dummyimage.com/600x400/000/4caee3.png&text=Asimov+Academy" style="height: 200px;">
+                <div>
+                    <a href="https://asimov.academy/">Link para página</a>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>
