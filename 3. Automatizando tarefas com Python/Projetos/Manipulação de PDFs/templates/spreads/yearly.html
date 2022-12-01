@@ -1,0 +1,31 @@
+{% import 'calendar.html' as calendar %}
+{% extends "base_planner.html" %}
+
+{% block title %} 
+    <a id="m0"><span>&nbsp;</span></a>
+{% endblock %}
+
+{% block row1 %}  
+    {% for i in range(0, 4) %}
+        <div class="col-3" style="padding-right: 35px; padding-left: 35px; margin-top: 0px">
+            {{ calendar.month(cal[i]) }}
+        </div>
+    {% endfor %}
+{% endblock %}
+
+{% block row2 %}  
+    {% for i in range(4, 8) %}
+        <div class="col-3" style="padding-right: 35px; padding-left: 35px; margin-top: 40px">
+            {{ calendar.month(cal[i]) }}
+        </div>
+    {% endfor %}
+{% endblock %}
+
+
+{% block row3 %}  
+    {% for i in range(8, 12) %}
+        <div class="col-3" style="padding-right: 35px; padding-left: 35px; margin-top: 40px">
+            {{ calendar.month(cal[i]) }}
+        </div>
+    {% endfor %}
+{% endblock %}

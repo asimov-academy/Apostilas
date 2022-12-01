@@ -1,0 +1,65 @@
+{% extends "base_planner.html" %}
+
+
+{% block title %} 
+<a id="{{ anchor }}"><span>&nbsp;</span></a>
+
+<span class="main-header">{{ wkd }}</span>
+<br>
+<br>
+<span class="main-header2">{{ main_m }}, {{ dia }}</span>
+{% endblock %}
+
+
+{% block links %} 
+    <div class="row text-center">
+        <div class="col-12">
+            <div class="card header-links c1"><a href="#{{ m0 }}">Calendário</a></div>
+        </div>
+    </div>    
+{% endblock %}
+
+
+{% block row1 %} 
+<div class="col-12" style="margin-left: 100px; margin-bottom: 0px;">
+    {% for day in m_days %}
+    <a href="#{{ '{}-{}'.format(day['day'], day['month']) }}">
+        <span class="links-row {{ 'fw-bold' if day['day'] == dia else '' }} {{ 'l-border' if day['wkd'] == 'D' else '' }}" style="font-size: 16px">
+            {{ day["day"] }}
+        </span>
+    </a>
+    {% endfor %}
+</div>
+{% endblock %} 
+
+
+ {% block row2 %} 
+ <div class="col-3" style="padding-left: 15px">
+    <div class="primary-line"><h5>Agenda</h5></div>
+        {% for hour in hours %}
+            <div class="secondary-line">{{ hour }}</div>
+            <div class="tertiary-line">&nbsp;</div>
+        {% endfor %}
+    </div>
+
+ <div class="col-3" style="padding-left: 15px">
+        <div  class="primary-line"><h5>Prioridades</h5></div>
+        {% for i in range(0, 4) %}
+            <div class="secondary-line">&nbsp;</div>
+        {% endfor %}
+        
+        
+        <div class="primary-line" style="margin-top: 13px"><h5>Tarefas</h5></div>
+        {% for i in range(0, 24) %}
+            <div class="secondary-line">
+                <span class="dot"></span>
+        </div>
+     {% endfor %}
+</div>
+
+<div class="col-6" style="padding-left: 15px; padding-right: 10px">
+    <div><h5>Notas</h5></div>
+    <div class="box3" style="height: 830px"></div>
+</div>
+ {% endblock %}
+ 

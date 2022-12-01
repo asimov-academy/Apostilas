@@ -1,0 +1,28 @@
+{% macro month(cal_data) -%}
+
+
+<table class="table caption-top table-borderless">
+    <caption class="text-center">{{ cal_data[0] }}</caption>
+    <thead>
+        <tr>
+        {% for day in cal_data[3] %}
+            <th>{{ day }} </th>
+        {% endfor %}
+        </tr>
+    </thead>
+    
+    {% for calendar_row in cal_data[1] %}
+        <tr>
+        
+        
+    {% for calendar_cell in calendar_row %}
+        <td>
+            <a href="#{{ calendar_cell['link'] }}">{{ calendar_cell["day"] }}</a>
+        </td>
+    {% endfor %}
+
+        </tr>
+    {% endfor %}
+</table>
+
+{%- endmacro %}
