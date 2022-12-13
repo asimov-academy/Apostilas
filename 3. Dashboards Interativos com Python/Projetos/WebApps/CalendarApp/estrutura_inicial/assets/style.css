@@ -1,0 +1,171 @@
+/* Base Styles –––––––––––––––––––––––––––––––––––––––––––––––––– */
+html {
+  font-size: 62.5%;
+}
+body {
+  font-size: 1.5em;
+ /* currently ems cause chrome bug misinterpreting rems on body element */
+  line-height: 1.6;
+  font-weight: 400;
+  font-family: "Open Sans", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: rgb(50, 50, 50);
+  background-color: #272626;
+}
+
+
+.card{
+  margin-top: 10px;
+  box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.15), 0 2px 2px 0 rgba(0, 0, 0, 0.19);
+  color: #FFFFFF; 
+}
+
+.form-control {
+  min-height: calc(1.5em + 1rem + 2px);
+  padding: .5rem 1rem;
+  font-size: 1.5rem;
+  border-radius: .3rem;
+  color: #eaeaea !important;
+}
+
+
+/*  Alterações abaixo para deixar os hovers das linhas da tabela e das celulas selecionadas transparentes*/
+.dash-table-container .dash-spreadsheet-container .dash-spreadsheet-inner table {
+  --hover : transparent !important;
+}
+
+td.dash-cell.cell--selected.focused {
+  background-color: #ffffff !important;
+  border-radius: 5px;
+  color: #000000; 
+  font-weight : bold;
+}
+
+td.dash-cell {
+  border-color: transparent  !important;
+}
+
+.btn-primary{
+  background-color : transparent;
+  border-color : transparent;
+  padding: 0px;
+  width: fit-content;
+  height: fit-content;
+}
+
+.btn-primary:hover{
+  background-color : transparent;
+  border-color : transparent;
+}
+
+.fa-trash:hover{
+  color: rgba(236, 100, 75, 1);
+}
+
+.fa-plus:hover{
+  color: #303030;
+  background-color: #FFFFFF;
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+}
+
+
+.primary-color{
+  background-color: #303030;
+}
+.secundary-color{
+  background-color: #000000;
+}
+
+.input-modal-color{
+  background-color : #707070;
+}
+
+.modal-color{
+  background-color : #202020;
+}
+
+.primary-font-color{
+  color: #ffffff;
+}
+.secundary-font-color{
+  color: rgba(236, 100, 75, 1);
+}
+
+#card-geral{
+  overflow-y: auto;
+}
+
+::-webkit-scrollbar {
+  width: 10px;
+  }
+
+::-webkit-scrollbar-track {
+  box-shadow: inset 0 0 5px grey; 
+  border-radius: 10px;
+  }
+
+::-webkit-scrollbar-thumb {
+  -webkit-border-radius: 10px;
+  border-radius: 10px;
+  height: 10px;
+  background: #303030; 
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background:rgb(54, 56, 58); 
+}
+
+
+::-webkit-input-placeholder{
+  color: rgba(255, 255, 255, 0.6) !important;
+}
+
+
+#horario-input{
+  color: #ffffff !important;
+}
+#horario-input:focus{
+  background-color: #707070;
+}
+#horario-input::placeholder{
+  color: #303030 !important;
+}
+
+
+#titulo-input{
+  color: #ffffff !important;
+}
+#titulo-input:focus{
+  background-color: #707070;
+}
+#titulo-input::placeholder{
+  color: #303030 !important;
+}
+
+
+#local-input{
+  color: #ffffff !important;
+}
+#local-input:focus{
+  background-color: #707070;
+}
+#local-input::placeholder{
+  color: #303030 !important;
+}
+
+
+#descricao-input{
+  color: #ffffff !important;
+}
+#descricao-input:focus{
+  background-color: #707070;
+}
+#descricao-input::placeholder{
+  color: #303030 !important;
+}
+
+
+#submit-tarefa:hover{
+  background-color: #707070 !important;
+}

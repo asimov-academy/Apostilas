@@ -1,0 +1,28 @@
+#sidebar_completa{
+    height: 100vh;
+    margin: 0px;
+    padding: 20px;
+    /* background-image: url('back_sidebar4.png'); */
+}
+
+.row{
+    --bs-gutter-x: 0rem !important;
+}
+
+.card{
+    margin-right: 10px;
+}
+
+.perfil_avatar{
+    margin-left: auto;
+    margin-right: auto;
+    width: 150px !important;
+    background-color: rgba(0, 0, 0, 0) !important;
+}
+
+#new-button{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+    border: 0px transparent solid;
+}
