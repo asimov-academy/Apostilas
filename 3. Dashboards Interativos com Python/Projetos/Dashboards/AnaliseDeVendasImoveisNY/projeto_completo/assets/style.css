@@ -1,0 +1,103 @@
+/* Custom App CSS Below --------------------------------- */
+/*Fonts ––––––––––––––––––––––––––––––––––––––––––––––––––*/
+@import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
+
+
+/* Grid –––––––––––––––––––––––––––––––––––––––––––––––––– */
+/* Base Styles –––––––––––––––––––––––––––––––––––––––––––––––––– */
+html {
+  font-size: 62.5%;
+}
+body {
+  font-size: 1.5em;
+ /* currently ems cause chrome bug misinterpreting rems on body element */
+  line-height: 1.6;
+  font-weight: 400;
+  font-family: "Open Sans", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+/* Blockquotes –––––––––––––––––––––––––––––––––––––––––––––––––– */
+blockquote {
+  border-left: 4px lightgrey solid;
+}
+
+/* Buttons –––––––––––––––––––––––––––––––––––––––––––––––––– */
+.button, button, input[type="submit"], input[type="reset"], input[type="button"] {
+  display: inline-block;
+  height: 38px;
+  color: #555;
+  text-align: center;
+  font-size: 11px;
+  font-weight: 600;
+  line-height: 38px;
+  letter-spacing: .1rem;
+  text-transform: uppercase;
+  text-decoration: none;
+  white-space: nowrap;
+  background-color: transparent;
+  border-radius: 4px;
+  border: 1px solid #dbdbdb44;
+  cursor: pointer;
+  box-sizing: border-box;
+}
+
+
+button{
+  margin-left: 10px;
+}
+
+.card{
+  margin-top: 10px;
+  box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.15), 0 2px 2px 0 rgba(0, 0, 0, 0.19);
+  color: #FFFFFF; 
+}
+
+.button.button-primary, button.button-primary, input[type="submit"].button-primary, input[type="reset"].button-primary, input[type="button"].button-primary {
+  color: #FFF;
+  background-color: #33C3F0;
+  border-color: #33C3F0;
+}
+.button.button-primary:hover, button.button-primary:hover, input[type="submit"].button-primary:hover, input[type="reset"].button-primary:hover, input[type="button"].button-primary:hover, .button.button-primary:focus, button.button-primary:focus, input[type="submit"].button-primary:focus, input[type="reset"].button-primary:focus, input[type="button"].button-primary:focus {
+  color: #FFF;
+  background-color: #1EAEDB;
+  border-color: #1EAEDB;
+}
+
+.has-value.Select--single>.Select-control .Select-value .Select-value-label, 
+.has-value.is-pseudo-focused.Select--single>.Select-control .Select-value .Select-value-label {
+  color: #cccccc;
+}
+
+/* Forms –––––––––––––––––––––––––––––––––––––––––––––––––– */
+input[type="email"], input[type="number"], input[type="search"], input[type="text"], input[type="tel"], input[type="url"], input[type="password"], textarea, select {
+  height: 38px;
+  /* border: 1px solid #D1D1D1; */
+  border-radius: 4px;
+  box-shadow: none;
+  box-sizing: border-box;
+  font-family: inherit;
+  font-size: inherit;
+}
+
+.form-control {
+  min-height: calc(1.5em + 1rem + 2px);
+  padding: .5rem 1rem;
+  font-size: 1.5rem;
+  border-radius: .3rem;
+  color: #eaeaea !important;
+  /* border: #90909044; */
+}
+/* 
+.form-control-lg{
+  box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.15), 0 2px 2px 0 rgba(0, 0, 0, 0.19);
+} */
+
+
+.Select-control, .Select-menu-outer, .Select-multi-value-wrapper, .select-up, .is-open .Select-control {
+  background-color: #1E1E1E;
+  color: white;
+}
+
+.Select-control{
+  border: 0.5px solid #dbdbdb44;
+}
