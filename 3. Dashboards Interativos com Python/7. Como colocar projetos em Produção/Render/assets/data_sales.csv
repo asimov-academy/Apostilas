@@ -1,0 +1,76 @@
+﻿Year,Category,Product,Sales($),Rating(%)
+2017,Accessories,Pumps,700,10
+2017,Accessories,Helmets,8300,99
+2017,Accessories,Tires and Tubes,8700,90
+2017,Accessories,Locks,10000,85
+2017,Accessories,Bike Racks,300,5
+2017,Accessories,Lights,1300,90
+2017,Bikes,Road Bikes,3500,50
+2017,Bikes,Mountain Bikes,3100,35
+2017,Bikes,Touring Bikes,500,22
+2017,Bikes,Cargo Bike,3200,48
+2017,Clothing,Socks,3700,22
+2017,Clothing,Shorts,13300,56
+2017,Clothing,Jerseys,6700,5
+2017,Clothing,Tights,3300,30
+2017,Clothing,Vests,3300,36
+2017,Clothing,Gloves,13300,50
+2017,Clothing,Bib-Shorts,700,28
+2017,Clothing,Caps,500,50
+2017,Components,Handlebars,2300,35
+2017,Components,Bottom Brackets,500,35
+2017,Components,Pedals,800,36
+2017,Components,Saddles,2100,49
+2017,Components,Brakes,2300,34
+2017,Components,Wheels,10000,66
+2017,Components,Chains,8700,92
+2018,Accessories,Helmets,17000,90
+2018,Accessories,Lights,21600,90
+2018,Accessories,Locks,29800,90
+2018,Accessories,Pumps,16400,80
+2018,Accessories,Bike Racks,22100,90
+2018,Accessories,Tires and Tubes,13800,85
+2018,Bikes,Mountain Bikes,6300,40
+2018,Bikes,Road Bikes,8300,46
+2018,Bikes,Touring Bikes,1800,15
+2018,Bikes,Cargo Bike,6700,46
+2018,Clothing,Socks,2300,28
+2018,Clothing,Bib-Shorts,2900,36
+2018,Clothing,Shorts,12000,66
+2018,Clothing,Caps,400,20
+2018,Clothing,Gloves,15600,65
+2018,Clothing,Jerseys,3800,48
+2018,Clothing,Vests,1300,25
+2018,Clothing,Tights,22100,99
+2018,Components,Brakes,3400,36
+2018,Components,Bottom Brackets,1000,23
+2018,Components,Wheels,16700,75
+2018,Components,Chains,16400,70
+2018,Components,Handlebars,3300,38
+2018,Components,Pedals,1500,17
+2018,Components,Saddles,2800,38
+2019,Accessories,Tires and Tubes,63700,90
+2019,Accessories,Bike Racks,33700,92
+2019,Accessories,Pumps,30700,95
+2019,Accessories,Helmets,34000,95
+2019,Accessories,Lights,36700,90
+2019,Accessories,Locks,35000,100
+2019,Bikes,Cargo Bike,9300,60
+2019,Bikes,Mountain Bikes,8500,46
+2019,Bikes,Road Bikes,16900,65
+2019,Bikes,Touring Bikes,3100,22
+2019,Clothing,Bib-Shorts,4000,22
+2019,Clothing,Tights,36000,100
+2019,Clothing,Jerseys,7500,40
+2019,Clothing,Caps,600,15
+2019,Clothing,Socks,3700,48
+2019,Clothing,Gloves,27000,88
+2019,Clothing,Vests,2400,35
+2019,Clothing,Shorts,23000,100
+2019,Components,Chains,20000,75
+2019,Components,Brakes,5400,38
+2019,Components,Bottom Brackets,600,27
+2019,Components,Wheels,21800,96
+2019,Components,Handlebars,5000,35
+2019,Components,Pedals,6200,38
+2019,Components,Saddles,3100,42
