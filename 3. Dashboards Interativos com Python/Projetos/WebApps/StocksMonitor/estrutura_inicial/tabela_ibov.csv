@@ -1,0 +1,89 @@
+Setor,Código,Ação,Tipo,Qtde. Teórica,Part. (%),Part. (%)Acum.
+Bens Indls / Máqs e Equips,WEGE3,WEG,ON      NM,1.318.583.017,"2,665","2,665"
+Bens Indls / Mat Transporte,EMBR3,EMBRAER,ON      NM,734.632.205,620,620
+Bens Indls/Transporte,AZUL4,AZUL,PN      N2,327.646.296,151,"1,981"
+Bens Indls/Transporte,CCRO3,CCR SA,ON      NM,998.462.635,587,"1,981"
+Bens Indls/Transporte,ECOR3,ECORODOVIAS,ON      NM,310.103.685,63,"1,981"
+Bens Indls/Transporte,GOLL4,GOL,PN      N2,190.059.275,63,"1,981"
+Bens Indls/Transporte,RAIL3,RUMO S.A.,ON      NM,1.215.642.613,"1,117","1,981"
+Cons N  Básico / Alimentos Processados,BRFS3,BRF SA,ON      NM,1.076.512.610,362,"1,985"
+Cons N  Básico / Alimentos Processados,JBSS3,JBS,ON      NM,1.134.986.483,"1,120","1,985"
+Cons N  Básico / Alimentos Processados,MRFG3,MARFRIG,ON      NM,316.724.584,110,"1,985"
+Cons N  Básico / Alimentos Processados,BEEF3,MINERVA,ON      NM,260.340.982,180,"1,985"
+Cons N  Básico / Alimentos Processados,SMTO3,SAO MARTINHO,ON      NM,143.294.210,213,"1,985"
+Cons N Cíclico / Bebidas,ABEV3,AMBEV S/A,ON,4.386.652.506,"2,954","2,954"
+Cons N Cíclico / Comércio Distr.,ASAI3,ASSAI,ON      NM,935.793.199,913,"1,457"
+Cons N Cíclico / Comércio Distr.,CRFB3,CARREFOUR BR,ON      NM,528.743.156,394,"1,457"
+Cons N Cíclico / Comércio Distr.,PCAR3,P.ACUCAR-CBD,ON      NM,157.889.627,150,"1,457"
+Cons N Cíclico / Pr Pessoal Limp,NTCO3,GRUPO NATURA,ON      NM,835.961.011,640,640
+Cons N Ciclico/Agropecuária,RAIZ4,RAIZEN,PN      N2,1.200.488.532,202,463
+Cons N Ciclico/Agropecuária,SLCE3,SLC AGRICOLA,ON      NM,96.272.020,261,463
+Consumo Cíclico / Comércio,ARZZ3,AREZZO CO,ON      NM,60.758.326,246,"2,327"
+Consumo Cíclico / Comércio,SOMA3,GRUPO SOMA,ON      NM,490.736.222,221,"2,327"
+Consumo Cíclico / Comércio,LREN3,LOJAS RENNER,ON      NM,965.528.807,975,"2,327"
+Consumo Cíclico / Comércio,MGLU3,MAGAZ LUIZA,ON      NM,2.874.188.573,601,"2,327"
+Consumo Cíclico / Comércio,PETZ3,PETZ,ON      NM,335.724.569,115,"2,327"
+Consumo Cíclico / Comércio,VIIA3,VIA,ON      NM,1.576.975.642,169,"2,327"
+Consumo Cíclico / Tecid Vest Calç,ALPA4,ALPARGATAS,PN      N1,202.765.994,102,102
+Consumo Cíclico/Constr Civil,CYRE3,CYRELA REALT,ON      NM,274.142.301,217,380
+Consumo Cíclico/Constr Civil,EZTC3,EZTEC,ON      NM,94.318.339,65,380
+Consumo Cíclico/Constr Civil,MRVE3,MRV,ON      NM,305.668.749,98,380
+Consumo Cíclico/Viagens e Lazer,CVCB3,CVC BRASIL,ON      NM,275.967.676,55,55
+Diversos,COGN3,COGNA ON,ON      NM,1.820.405.422,206,"2,639"
+Diversos,RENT3,LOCALIZA,ON      NM,773.535.098,"2,301","2,639"
+Diversos,YDUQ3,YDUQS PART,ON      NM,296.015.511,132,"2,639"
+Financ e Outros / Explor Imóveis,ALSO3,ALIANSCSONAE,ON      NM,330.109.863,302,846
+Financ e Outros / Explor Imóveis,IGTI11,IGUATEMI S.A,UNT     N1,213.576.831,212,846
+Financ e Outros / Explor Imóveis,MULT3,MULTIPLAN,ON      N2,268.145.328,332,846
+Financ e Outros / Interms Financs,BPAN4,BANCO PAN,PN      N1,341.549.703,94,"18,124"
+Financ e Outros / Interms Financs,BBDC3,BRADESCO,ON  EJ  N1,1.508.883.586,916,"18,124"
+Financ e Outros / Interms Financs,BBDC4,BRADESCO,PN  EJ  N1,5.156.077.326,"3,421","18,124"
+Financ e Outros / Interms Financs,BBAS3,BRASIL,ON      NM,1.420.731.069,"3,003","18,124"
+Financ e Outros / Interms Financs,BPAC11,BTGP BANCO,UNT     N2,1.225.470.424,"1,332","18,124"
+Financ e Outros / Interms Financs,ITSA4,ITAUSA,PN      N1,5.233.076.295,"2,337","18,124"
+Financ e Outros / Interms Financs,ITUB4,ITAUUNIBANCO,PN      N1,4.801.489.940,"6,487","18,124"
+Financ e Outros / Interms Financs,SANB11,SANTANDER BR,UNT,355.642.848,534,"18,124"
+Financ e Outros / Previd  Seguros,BBSE3,BBSEGURIDADE,ON      NM,671.682.536,"1,264","1,264"
+Financeiro e Outros/Serviços Financeiros Diversos,B3SA3,B3,ON      NM,5.901.731.302,"3,647","3,954"
+Financeiro e Outros/Serviços Financeiros Diversos,CIEL3,CIELO,ON      NM,1.095.401.258,307,"3,954"
+Mats Básicos / Madeira e Papel,DXCO3,DEXCO,ON      NM,274.863.424,99,"2,585"
+Mats Básicos / Madeira e Papel,KLBN11,KLABIN S/A,UNT     N2,701.899.756,720,"2,585"
+Mats Básicos / Madeira e Papel,SUZB3,SUZANO S.A.,ON      NM,726.823.001,"1,766","2,585"
+Mats Básicos / Mineração,BRAP4,BRADESPAR,PN      N1,251.016.648,378,"16,093"
+Mats Básicos / Mineração,CMIN3,CSNMINERACAO,ON      N2,1.110.550.596,285,"16,093"
+Mats Básicos / Mineração,VALE3,VALE,ON      NM,3.394.804.584,"15,430","16,093"
+Mats Básicos / Químicos,BRKM5,BRASKEM,PNA     N1,265.212.486,306,306
+Mats Básicos / Sid Metalurgia,GGBR4,GERDAU,PN      N1,1.093.112.629,"1,621","2,782"
+Mats Básicos / Sid Metalurgia,GOAU4,GERDAU MET,PN      N1,667.194.478,436,"2,782"
+Mats Básicos / Sid Metalurgia,CSNA3,SID NACIONAL,ON,589.695.175,527,"2,782"
+Mats Básicos / Sid Metalurgia,USIM5,USIMINAS,PNA     N1,515.014.562,198,"2,782"
+Petróleo/ Gás e Biocombustíveis,RRRP3,3R PETROLEUM,ON      NM,196.144.421,458,"16,813"
+Petróleo/ Gás e Biocombustíveis,CSAN3,COSAN,ON      NM,1.171.063.698,960,"16,813"
+Petróleo/ Gás e Biocombustíveis,PETR3,PETROBRAS,ON      N2,3.484.913.747,"5,489","16,813"
+Petróleo/ Gás e Biocombustíveis,PETR4,PETROBRAS,PN      N2,4.566.441.248,"6,389","16,813"
+Petróleo/ Gás e Biocombustíveis,PRIO3,PETRORIO,ON      NM,839.159.130,"1,879","16,813"
+Petróleo/ Gás e Biocombustíveis,UGPA3,ULTRAPAR,ON      NM,1.087.887.681,739,"16,813"
+Petróleo/ Gás e Biocombustíveis,VBBR3,VIBRA,ON      NM,1.114.442.976,899,"16,813"
+Saúde/Comércio Distr.,HYPE3,HYPERA,ON      NM,400.842.480,955,"2,442"
+Saúde/Comércio Distr.,RADL3,RAIADROGASIL,ON      NM,1.196.069.386,"1,487","2,442"
+Saúde/SM Hosp An.Diag,FLRY3,FLEURY,ON      NM,351.919.239,267,"3,112"
+Saúde/SM Hosp An.Diag,HAPV3,HAPVIDA,ON      NM,4.455.957.762,"1,059","3,112"
+Saúde/SM Hosp An.Diag,QUAL3,QUALICORP,ON      NM,277.226.847,79,"3,112"
+Saúde/SM Hosp An.Diag,RDOR3,REDE D OR,ON      NM,1.149.694.340,"1,707","3,112"
+Tec.Informação/Programas Servs,LWSA3,LOCAWEB,ON      NM,419.466.860,119,972
+Tec.Informação/Programas Servs,CASH3,MELIUZ,ON      NM,657.970.941,33,972
+Tec.Informação/Programas Servs,TOTS3,TOTVS,ON      NM,520.749.110,820,972
+Telecomunicação,VIVT3,TELEF BRASIL,ON,423.091.712,866,"1,344"
+Telecomunicação,TIMS3,TIM,ON      NM,808.436.195,478,"1,344"
+Utilidade Públ / Água Saneamento,SBSP3,SABESP,ON      NM,340.002.999,944,944
+Utilidade Públ / Energ Elétrica,CMIG4,CEMIG,PN      N1,1.442.098.974,828,"10,151"
+Utilidade Públ / Energ Elétrica,CPLE6,COPEL,PNB     N2,1.563.365.506,610,"10,151"
+Utilidade Públ / Energ Elétrica,CPFE3,CPFL ENERGIA,ON      NM,187.732.538,304,"10,151"
+Utilidade Públ / Energ Elétrica,ELET3,ELETROBRAS,ON      N1,1.871.213.500,"3,628","10,151"
+Utilidade Públ / Energ Elétrica,ELET6,ELETROBRAS,PNB     N1,275.526.814,567,"10,151"
+Utilidade Públ / Energ Elétrica,ENBR3,ENERGIAS BR,ON      NM,246.028.184,257,"10,151"
+Utilidade Públ / Energ Elétrica,ENGI11,ENERGISA,UNT     N2,248.477.689,529,"10,151"
+Utilidade Públ / Energ Elétrica,ENEV3,ENEVA,ON      NM,1.576.898.490,966,"10,151"
+Utilidade Públ / Energ Elétrica,EGIE3,ENGIE BRASIL,ON      NM,255.208.461,508,"10,151"
+Utilidade Públ / Energ Elétrica,EQTL3,EQUATORIAL,ON      NM,1.100.513.485,"1,542","10,151"
+Utilidade Públ / Energ Elétrica,TAEE11,TAESA,UNT     N2,218.568.234,412,"10,151"
